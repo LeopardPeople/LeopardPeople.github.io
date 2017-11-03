@@ -4,11 +4,11 @@
     margin: 0;
     padding: 5px;
     background-color:#FFAF00;
-    border:#FFAF00 outset 5px;
+    border:#FFAF00 double 5px;
 }
 
 .navibutton {
     display: inline;
     background-color:#FFFF00;
-    border:#FFFF00 outset 5px;
+    border:#FFFF00 double 5px;
 }
