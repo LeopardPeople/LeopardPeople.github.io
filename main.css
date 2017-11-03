@@ -1,0 +1,14 @@
+
+.navibar {
+    list-style-type: none;
+    margin: 0;
+    padding: 5px;
+    background-color:#FFAF00;
+    border:#FFAF00 outset 5px;
+}
+
+.navibutton {
+    display: inline;
+    background-color:#FFFF00;
+    border:#FFFF00 outset 5px;
+}
